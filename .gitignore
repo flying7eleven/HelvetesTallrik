@@ -3,5 +3,6 @@
 .vs
 pcb/*-backups
 fp-info-cache
+*auto_saved_files*
 *.kicad_prl
 *.bak
